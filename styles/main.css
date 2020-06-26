@@ -2214,7 +2214,9 @@ body {
     .active-hidden > a {
       color: #fc6423;
       border-bottom-color: #fc6423;
-    }.bg-color {
+    }.reward-btn-text {
+        background-color: #ffe3e3fe !important;
+      }.bg-color {
       background-color: #fffffffe;
     }
     .site-meta {
